@@ -1,4 +1,4 @@
-# 嘉兴大屏
+# libgif-js库实现GIF图片播放暂停
 
 ## Project setup
 ```
